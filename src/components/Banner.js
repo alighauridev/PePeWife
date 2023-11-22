@@ -43,7 +43,7 @@ const Banner = ({ timeline, ease }) => {
                 </a>
               </div>
               <div className="btn-main">
-                <a target="_blank" href="https://www.dextools.io/app/en/ether/pair-explorer/0xc78460a8dce40a8b82f3cc59460b8f46853d6a93">
+                <a target="_blank" href="https://www.dexview.com/eth/0x6643ED3bd5ffe7a3F9d3DD36F71a843abfA9DF87">
                   <div>CHART </div>
                 </a>
               </div>

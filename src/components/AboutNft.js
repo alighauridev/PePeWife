@@ -75,7 +75,7 @@ const AboutNft = () => {
 
 
               <div className="join-btn">
-                <a href="https://T.me/PepeWifeEth" target="_blank">
+                <a href="https://t.me/TruckBsc" target="_blank">
                   <div className="btn">
                     <div className="text">Join Now</div>
                   </div>

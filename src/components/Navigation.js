@@ -60,7 +60,7 @@ const Navigation = ({ }) => {
           <div className="container">
             <div className="nav__grid">
               <div className="logo">
-                <a href="https://T.me/PepeWifeEth">
+                <a href="">
                   <img
                     src={
                       img1
@@ -100,9 +100,9 @@ const Navigation = ({ }) => {
                 </div> */}
 
                 <div className="join-btn">
-                  <a href="https://T.me/PepeWifeEth" target="_blank">
+                  <a href="https://app.uniswap.org/swap?inputCurrency=0x6643ed3bd5ffe7a3f9d3dd36f71a843abfa9df87&outputCurrency=ETH" target="_blank">
                     <div className="btn">
-                      <div className="text">Join Now</div>
+                      <div className="text">Buy</div>
                     </div>
                   </a>
                 </div>

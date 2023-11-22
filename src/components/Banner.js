@@ -38,12 +38,12 @@ const Banner = ({ timeline, ease }) => {
 
             <div className="banner-btn">
               <div className="btn-main">
-                <a target="_blank" href="https://app.uniswap.org/#/swap?outputCurrency=0x6643ED3bd5ffe7a3F9d3DD36F71a843abfA9DF87">
+                <a target="_blank" href="https://app.uniswap.org/swap?inputCurrency=0x6643ed3bd5ffe7a3f9d3dd36f71a843abfa9df87&outputCurrency=ETH">
                   <div>BUY ON NOW </div>
                 </a>
               </div>
               <div className="btn-main">
-                <a target="_blank" href="https://www.dextools.io/app/en/ether/pair-explorer/0x6643ED3bd5ffe7a3F9d3DD36F71a843abfA9DF87">
+                <a target="_blank" href="https://www.dextools.io/app/en/ether/pair-explorer/0xc78460a8dce40a8b82f3cc59460b8f46853d6a93">
                   <div>CHART </div>
                 </a>
               </div>
@@ -51,7 +51,7 @@ const Banner = ({ timeline, ease }) => {
             </div>
             <div className="contract">
               <span ref={contractAddressRef}>
-                0x6643ED3bd5ffe7a3F9d3DD36F71a843abfA9DF87
+                0x6643ed3bd5ffe7a3f9d3dd36f71a843abfa9df87
               </span>
               <button onClick={handleCopy}>COPY</button>
             </div>

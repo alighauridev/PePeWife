@@ -11,29 +11,29 @@ const Footer = () => {
               CONTACT</h2>
 
             <div className="icons">
-              <a href="https://t.me/TruckBsc" target="_blank">
+              <a href="https://T.me/Pippasol" target="_blank">
                 <img src="https://static.wixstatic.com/media/1f3f2b_af942b4585dd4bf9baaa6e151c02f1b4~mv2.png/v1/fill/w_57,h_57,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/twttttee2.png" alt="" />
               </a>
-              <a href="https://twitter.com/TruckCoinBsc" target="_blank">
+              <a href="https://X.com/PippaSolana" target="_blank">
                 <img src="https://static.wixstatic.com/media/1f3f2b_f59a557a4c72456581fa206a9247dcac~mv2.png/v1/fill/w_57,h_57,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/twtttt.png" alt="" />
               </a>
 
             </div>
             <p>
-              <a href="mailto:contact@pepewife.io">contact@pepewife.io</a>
+              <a href="mailto:Book@pippasol.com
+">Book@pippasol.com
+              </a>
             </p>
             <p>
-              $PEPEWIFE Pepe Wife coin has no association with Matt Furie or his creation Pepe the Frog. This is a fan token and community driven project
+              $PIPPA is a meme coin with no intrinsic value or expectation of financial return. There is no formal team or roadmap. The coin is completely useless and for entertainment purposes only
 
             </p>
-            <p>
-              $PEPEWIFE is a meme coin with no intrinsic value or expectation of financial return. There is no formal team or roadmap. The coin is completely useless and for entertainment purposes only
-            </p>
+
           </div>
         </div>
       </footer>
       <div className="bottom">
-        © 2023 by PEPE WIFE. All rights reserved!
+        © 2023 by PIPPA. All rights reserved!
       </div>
     </>
   );

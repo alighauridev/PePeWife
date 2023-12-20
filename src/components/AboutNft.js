@@ -45,16 +45,16 @@ const AboutNft = () => {
             </div>
             <div className="about-h">
 
-              <h2>Who is Pepe Wife? </h2>
+              <h2>WHO IS PIPPA? </h2>
 
-              <p> I have to be honest; Pepe isn't the attractive frog that everyone makes him out to be. For five years, we've been living in close quarters, sharing the same lily pads and insects. However, one day he decided to become the hottest meme in the crypto world. I gave him my blessing, but reminded him to come home at a decent hour.</p>
+              <p> I have to be honest; Bonk isn't the attractive dog that everyone makes him out to be. For five years, we've been living in close quarters, sharing the same bed. However, one day he decided to become the hottest meme in the crypto world. I gave him my blessing, but reminded him to come home at a decent hour. You can imagine my shock when, just three days later, I heard that he was partying it up in Vegas with some lady, while I was busy cooking up his favorite dish. Bonk, you may have found success first, but I'm not one to back down. I won't let you forget about me that easily. Let's see who comes out on top in this game!</p>
 
               <p>  You can imagine my shock when, just three days later, I heard that he was partying it up in Vegas with some lady, while I was busy cooking up his favorite dish of dragonflies. Pepe, you may have found success first, but I'm not one to back down. I won't let you forget about me that easily. Let's see who comes out on top in this game! </p>
 
 
 
               <div className="join-btn">
-                <a href="https://app.uniswap.org/swap?inputCurrency=0x6643ed3bd5ffe7a3f9d3dd36f71a843abfa9df87&outputCurrency=ETH" target="_blank">
+                <a href="https://raydium.io/swap/?inputCurrency=sol&outputCurrency=MXJAnKLWsPioK5wg5ozqU5fejrVKFt7ySQWDDAV83bK&outputSymbol=PIPPA&fixed=in" target="_blank">
                   <div className="btn">
                     <div className="text">Buy Now</div>
                   </div>
@@ -68,14 +68,14 @@ const AboutNft = () => {
 
               <h2>Who is Pepe Wife? </h2>
 
-              <p> I have to be honest; Pepe isn't the attractive frog that everyone makes him out to be. For five years, we've been living in close quarters, sharing the same lily pads and insects. However, one day he decided to become the hottest meme in the crypto world. I gave him my blessing, but reminded him to come home at a decent hour.</p>
+              <p> PIPPA, the reigning queen of meme coins, brings both beauty and brains to the crypto game. She's here to flip the script on those dog-themed tokens and show the world what true meme royalty looks like</p>
 
-              <p>  You can imagine my shock when, just three days later, I heard that he was partying it up in Vegas with some lady, while I was busy cooking up his favorite dish of dragonflies. Pepe, you may have found success first, but I'm not one to back down. I won't let you forget about me that easily. Let's see who comes out on top in this game! </p>
+
 
 
 
               <div className="join-btn">
-                <a href="https://t.me/TruckBsc" target="_blank">
+                <a href="https://T.me/Pippasol" target="_blank">
                   <div className="btn">
                     <div className="text">Join Now</div>
                   </div>

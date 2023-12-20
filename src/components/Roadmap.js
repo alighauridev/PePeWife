@@ -21,7 +21,8 @@ const Roadmap = () => {
           <h2>Roadmp</h2>
 
           <p>
-            Sneak peek at what $PepeWife has in store for the future. Of course, we don't want to spoil all the surprises right off the bat, so expect some unexpected twists and turns along the way. Stay tuned for what's to come, it's going to be an exciting journey!"
+            Sneak peek at what $PIPPA has in store for the future. Of course, we don't want to spoil all the surprises right off the bat, so expect some unexpected twists and turns along the way. Stay tuned for what's to come, it's going to be an exciting journey!
+
           </p>
         </div>
 

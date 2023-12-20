@@ -41,9 +41,9 @@ export const roadmap = [
     head: "Development and Launch",
     points: [
       "Launch",
-      "CoinGecko/Coinmarketcap Listings",
+      "CG/CMC Listings",
       "1,000+ Holders",
-      "Get $PEPEWIFE Trending on twitter with our memetic power",
+      "Get $PIPPA Trending on twitter with our memetic power",
 
 
     ],
@@ -54,8 +54,8 @@ export const roadmap = [
     id: "02",
     head: "Expansion and Outreach",
     points: [
-      "Etherscan logo and info update",
-      "TrustWallet Listing",
+      "Pippa EroticBot",
+      "Phantom Listing",
       "CEX Listings 10,000+holders",
 
     ],
@@ -66,11 +66,11 @@ export const roadmap = [
     id: "03",
     head: "Mobile App Development and Expansion",
     points: [
-      "Pepe Wife themed merch, % revenues to $pepewife buy and burn",
-      "Pepe Academy: details tba",
-      "Pepe Tools: details tba",
+      "Pippa themed merch, % revenues to $PIPPA buy and burn",
+      "Pippa Academy: details tba",
+      "Pippa Tools: details tba",
       "T1 Exchange Listings 100,000+ holders",
-      "Flip Pepe",
+      "Flip Bonk",
 
     ],
     date: "2022",

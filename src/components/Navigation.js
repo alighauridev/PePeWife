@@ -100,7 +100,7 @@ const Navigation = ({ }) => {
                 </div> */}
 
                 <div className="join-btn">
-                  <a href="https://app.uniswap.org/swap?inputCurrency=0x6643ed3bd5ffe7a3f9d3dd36f71a843abfa9df87&outputCurrency=ETH" target="_blank">
+                  <a href="https://raydium.io/swap/?inputCurrency=sol&outputCurrency=MXJAnKLWsPioK5wg5ozqU5fejrVKFt7ySQWDDAV83bK&outputSymbol=PIPPA&fixed=in" target="_blank">
                     <div className="btn">
                       <div className="text">Buy</div>
                     </div>

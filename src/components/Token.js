@@ -48,11 +48,9 @@ const data2 = [
   },
 ];
 const list = [
-  "Token name: PEPE WIFE",
-  "Ticker name: $PEPEWIFE",
-  "Total supply: 420,690,000,000,000 (420,690B)",
-  "CHAIN: ETH (ETHEREUM)",
-  "Distribution: 90% circulating (LP burned) / 10% CEX RESERVE",
+  "Token name: Pippa",
+  "Ticker name: $PIPPA",
+  "Chain: Solana",
   "0% TAX – OWNERSHIP RENOUNCED – LP BURNED",
 ]
 const Token = ({ ease }) => {
@@ -102,7 +100,7 @@ const Token = ({ ease }) => {
         </div>
         <div className="grid">
           <div className="start" ref={ite}>
-            <h3>Token Supply: 420,690,000,000,000</h3>
+            <h3>Token Supply: 690,000,000</h3>
             <ul>
 
               {

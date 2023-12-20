@@ -28,9 +28,11 @@ const Banner = ({ timeline, ease }) => {
         <div className="container">
           <div className="banner-h">
             <div className="banner-main-h">
-              <h2>Pepe Wife </h2>
+              <h2>PIPPA </h2>
               <p>
-                Pepe may be a superstar now, but guess what? He left his ride-or-die behind, and she's feeling like she's drowning in loneliness. Let's show her some love and lift her up from this slump. Who's with me? Let's pump up the positivity and be the hype she needs right now!
+
+                Are you tired of the same old frogs, dogs, and male-dominated memes? Look no further! PIPPA, the first sexy frog in the meme coin world, is here to take over. Get ready for a meme revolution that's all about beauty, style, and a dash of sass. Say goodbye to the mundane, and join the PIPPA movement today!
+
 
               </p>
             </div>
@@ -38,12 +40,12 @@ const Banner = ({ timeline, ease }) => {
 
             <div className="banner-btn">
               <div className="btn-main">
-                <a target="_blank" href="https://app.uniswap.org/swap?inputCurrency=0x6643ed3bd5ffe7a3f9d3dd36f71a843abfa9df87&outputCurrency=ETH">
+                <a target="_blank" href="https://raydium.io/swap/?inputCurrency=sol&outputCurrency=MXJAnKLWsPioK5wg5ozqU5fejrVKFt7ySQWDDAV83bK&outputSymbol=PIPPA&fixed=in">
                   <div>BUY ON NOW </div>
                 </a>
               </div>
               <div className="btn-main">
-                <a target="_blank" href="https://www.dexview.com/eth/0x6643ED3bd5ffe7a3F9d3DD36F71a843abfA9DF87">
+                <a target="_blank" href="https://birdeye.so/token/MXJAnKLWsPioK5wg5ozqU5fejrVKFt7ySQWDDAV83bK?chain=solana">
                   <div>CHART </div>
                 </a>
               </div>
@@ -51,7 +53,7 @@ const Banner = ({ timeline, ease }) => {
             </div>
             <div className="contract">
               <span ref={contractAddressRef}>
-                0x6643ed3bd5ffe7a3f9d3dd36f71a843abfa9df87
+                MXJAnKLWsPioK5wg5ozqU5fejrVKFt7ySQWDDAV83bK
               </span>
               <button onClick={handleCopy}>COPY</button>
             </div>

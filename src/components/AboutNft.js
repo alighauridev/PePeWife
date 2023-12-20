@@ -45,7 +45,7 @@ const AboutNft = () => {
             </div>
             <div className="about-h">
 
-              <h2>WHO IS PIPPA? </h2>
+              <h2>ABOUT PIPPA</h2>
 
               <p> Pippa is tired of watching everyone play hot potato with the endless derivative BonkdogwifhatcatwifhagrokGMElonKishuTurboAssFlokiMoon Inu coins. The Inu’s have had their day. It’s time for the most recognizable meme in the world to take her reign as queen of the memes.</p>
               <p>Pippa is here to make memecoins great again. Launched stealth, zero taxes, LP burnt and contract renounced, $PIPPA is a coin for the people, forever. Fueled by pure memetic power, let $PIPPA show you the way.</p>
@@ -64,7 +64,7 @@ const AboutNft = () => {
 
             <div className="about-h">
 
-              <h2>WHO IS PIPPA?  </h2>
+              <h2>ABOUT PIPPA </h2>
 
               <p> Pippa is tired of watching everyone play hot potato with the endless derivative BonkdogwifhatcatwifhagrokGMElonKishuTurboAssFlokiMoon Inu coins. The Inu’s have had their day. It’s time for the most recognizable meme in the world to take her reign as queen of the memes.</p>
               <p>Pippa is here to make memecoins great again. Launched stealth, zero taxes, LP burnt and contract renounced, $PIPPA is a coin for the people, forever. Fueled by pure memetic power, let $PIPPA show you the way.</p>

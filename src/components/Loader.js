@@ -2,7 +2,7 @@ import React, { useEffect, useState } from "react";
 
 import logo from "../assests/banner-removebg-preview.png"
 import "../scss/loader.scss";
-import img1 from "../assests/PepeWife.io/Pepewife.io.png"
+import img1 from "../assests/pippa png/pippa logo 2.png"
 const Loader = ({ setLoading }) => {
   const [progress, setProgress] = useState(0);
 

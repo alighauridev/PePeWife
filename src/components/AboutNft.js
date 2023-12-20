@@ -47,8 +47,8 @@ const AboutNft = () => {
 
               <h2>WHO IS PIPPA? </h2>
 
-              <p> PIPPA, the reigning queen of meme coins, brings both beauty and brains to the crypto game. She's here to flip the script on those dog-themed tokens and show the world what true meme royalty looks like</p>
-
+              <p> Pippa is tired of watching everyone play hot potato with the endless derivative BonkdogwifhatcatwifhagrokGMElonKishuTurboAssFlokiMoon Inu coins. The Inu’s have had their day. It’s time for the most recognizable meme in the world to take her reign as queen of the memes.</p>
+              <p>Pippa is here to make memecoins great again. Launched stealth, zero taxes, LP burnt and contract renounced, $PIPPA is a coin for the people, forever. Fueled by pure memetic power, let $PIPPA show you the way.</p>
 
 
               <div className="join-btn">
@@ -66,7 +66,8 @@ const AboutNft = () => {
 
               <h2>WHO IS PIPPA?  </h2>
 
-              <p> PIPPA, the reigning queen of meme coins, brings both beauty and brains to the crypto game. She's here to flip the script on those dog-themed tokens and show the world what true meme royalty looks like</p>
+              <p> Pippa is tired of watching everyone play hot potato with the endless derivative BonkdogwifhatcatwifhagrokGMElonKishuTurboAssFlokiMoon Inu coins. The Inu’s have had their day. It’s time for the most recognizable meme in the world to take her reign as queen of the memes.</p>
+              <p>Pippa is here to make memecoins great again. Launched stealth, zero taxes, LP burnt and contract renounced, $PIPPA is a coin for the people, forever. Fueled by pure memetic power, let $PIPPA show you the way.</p>
 
 
 

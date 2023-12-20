@@ -31,7 +31,7 @@ const Banner = ({ timeline, ease }) => {
               <h2>PIPPA </h2>
               <p>
 
-                Are you tired of the same old frogs, dogs, and male-dominated memes? Look no further! PIPPA, the first sexy frog in the meme coin world, is here to take over. Get ready for a meme revolution that's all about beauty, style, and a dash of sass. Say goodbye to the mundane, and join the PIPPA movement today!
+                the most memeable memecoin in existence. The dogs have had their day, it’s time for PIPPA to take reign.
 
 
               </p>

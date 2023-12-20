@@ -192,12 +192,12 @@
       img {
         max-width: 550px;
         object-fit: cover;
-        border-radius: 40px 40px 40px 40px;
+        /* border-radius: 40px 40px 40px 40px; */
         width: 100%;
-        filter: drop-shadow(7px 7px 8px #00000035);
-        border: 3px solid black;
-        border-radius: 1000%;
-        background: #ffdefa;
+        /* filter: drop-shadow(7px 7px 8px #00000035); */
+        /* border: 3px solid black; */
+        /* border-radius: 1000%; */
+        /* background: #ffdefa; */
         height: 500px;
         width: 500px;
         @include md {

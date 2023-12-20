@@ -3,7 +3,7 @@ import AOS from "aos";
 import "aos/dist/aos.css";
 import "../scss/token.scss";
 import { FaCheckCircle } from "react-icons/fa";
-import img1 from "../assests/PepeWife.io/Pepewife.io.webp";
+import img1 from "../assests/pippa png/bahan 2.png";
 import { Parallax, Background } from "react-parallax";
 import { gsap } from "gsap";
 import { TimelineLite, Power3 } from "gsap/gsap-core";

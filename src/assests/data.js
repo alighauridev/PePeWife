@@ -54,7 +54,7 @@ export const roadmap = [
     id: "02",
     head: "Expansion and Outreach",
     points: [
-      "Pippa EroticBot",
+      "PippaMemeBot",
       "Phantom Listing",
       "CEX Listings 10,000+holders",
 

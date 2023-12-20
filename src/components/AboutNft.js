@@ -64,7 +64,7 @@ const AboutNft = () => {
 
             <div className="about-h">
 
-              <h2>Who is Pepe Wife? </h2>
+              <h2>WHO IS PIPPA?  </h2>
 
               <p> PIPPA, the reigning queen of meme coins, brings both beauty and brains to the crypto game. She's here to flip the script on those dog-themed tokens and show the world what true meme royalty looks like</p>
 

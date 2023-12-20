@@ -13,7 +13,7 @@ import { BiChevronRight } from "react-icons/bi";
 import { gsap } from "gsap";
 import { TimelineLite, Power4 } from "gsap/gsap-core";
 import { ScrollTrigger } from "gsap/all";
-import img from "../assests/PepeWife.io/PEPE WIFE 02.webp"
+import img from "../assests/pippa png/22.png"
 gsap.registerPlugin(ScrollTrigger);
 const AboutNft = () => {
   const btn = useRef(null);

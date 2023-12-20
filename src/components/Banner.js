@@ -7,7 +7,7 @@ import Navigation from "./Navigation";
 import { BannerImages } from "../assests/data";
 import { gsap } from "gsap";
 import { TimelineLite, Power4 } from "gsap/gsap-core";
-import img1 from "../assests/pippa png/pippa logo 2.png"
+import img1 from "../assests/pippa png/bahan 2.png"
 import icons from "../assests/images/icons.png"
 import { toast } from "react-toastify";
 const Banner = ({ timeline, ease }) => {
